@@ -32,10 +32,10 @@ Enseguida puedes encontrar el enlace al video:
 
 ----
 
-<p align="center">
+<div style="text-align: center;">
   <h3>Autora: Estephania Pivac Alcaraz</h3>
   <h3>Materia: Redes Neuronales Profundas</h3>
-</p>
+</div>
 
 
 <p align="center">
