@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/estephaniapa/birds_classification/blob/main/guacamayo.png?raw=true" alt="Titulo" width="200px">
+  <img src="https://github.com/estephaniapa/birds_classification/blob/main/guacamayo.png?raw=true" alt="Titulo" width="100px">
 </p>
 
 <p align="center">
