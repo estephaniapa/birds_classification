@@ -14,7 +14,11 @@ El conjunto de datos utilizado contiene imágenes de 525 especies de aves y est�
 
 Además, puedes acceder al conjunto de datos a través de esta [Enlace a carpeta de google drive](https://drive.google.com/drive/folders/1S_buSBiUX9h3PrqinBJZWqOcDp9jDlau?usp=sharing)
 
-## Ejemplo de uso
+## Evaluación del modelo y la aplicación
+
+Con el fin de evaluar tanto el modelo de clasificación como la aplicación implementada, se ha creado un video que muestra la grabación de la pantalla del celular. En este video se presentan diversas imágenes de aves, mientras el clasificador identifica y muestra la especie correspondiente en tiempo real. Posteriormente, se verifica la precisión de la clasificación mostrando la etiqueta correcta. Durante la evaluación, se observó que el modelo demostró un buen desempeño en general, aunque se notó una mayor facilidad para clasificar ciertos tipos de aves en comparación con otros. Este análisis proporciona una visión práctica del rendimiento del modelo y la aplicación en condiciones reales de uso.
+
+Enseguida puedes encontrar el enlace al video:
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1zys_s_GuVSyXHsMh9SkB4nzValTstlqu/view?usp=sharing">
