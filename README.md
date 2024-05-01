@@ -46,3 +46,7 @@ Enseguida puedes encontrar el enlace al video:
 <p align="center">
   <img src="https://mcd.unison.mx/wp-content/themes/awaken/img/logo_mcd.png" alt="MDC" width="100px">
 </p>
+
+<div class="col-lg-6 mx-auto">
+            <p class="fs-7 mb-4"><br> <br>Basado en el material y tutorial guiado "Crea un clasificador de perros y gatos con IA, Python y Tensorflow - Proyecto completo" de <a href="https://youtube.com/RingaTech">Ringa Tech</a></p>
+</div>
