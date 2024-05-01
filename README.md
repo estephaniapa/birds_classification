@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://github.com/estephaniapa/birds_classification/blob/main/guacamayo.png?raw=true" alt="Titulo" width="200px">
+</p>
+
+<p align="center">
   <img src="https://github.com/estephaniapa/birds_classification/blob/main/titulo.png?raw=true" alt="Titulo" width="500px">
 </p>
 
