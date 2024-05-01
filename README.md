@@ -1,6 +1,9 @@
 # Clasificación de Aves
 
-<img src="[Titulo](https://github.com/estephaniapa/birds_classification/blob/main/titulo.png?raw=true)" alt="Titulo" style="width:300px;">
+<p align="center">
+  <img src="https://github.com/estephaniapa/birds_classification/blob/main/titulo.png?raw=true" alt="Titulo" width="500px">
+</p>
+
 
 El propósito de este proyecto es desarrollar un modelo de red neuronal para la clasificación de aves basado en sus especies, implementable en dispositivos móviles.
 
