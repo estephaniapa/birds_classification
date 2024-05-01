@@ -1,5 +1,3 @@
-# Clasificación de Aves
-
 <p align="center">
   <img src="https://github.com/estephaniapa/birds_classification/blob/main/titulo.png?raw=true" alt="Titulo" width="500px">
 </p>
