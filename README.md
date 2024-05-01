@@ -32,9 +32,10 @@ Enseguida puedes encontrar el enlace al video:
 
 ----
 
-## Autora: Estephania Pivac Alcaraz
-
-## Materia: Redes Neuronales Profundas
+<p align="center">
+  Autora: Estephania Pivac Alcaraz <br><br></b>
+  Materia: Redes Neuronales Profundas
+</p>
 
 <p align="center">
   <img src="https://mcd.unison.mx/wp-content/themes/awaken/img/logo_mcd.png" alt="MDC" width="100px">
