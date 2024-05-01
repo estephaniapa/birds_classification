@@ -21,5 +21,8 @@ El conjunto de datos utilizado contiene im√°genes de 525 especies de aves y est√
   </a>
 </p>
 
-[Ver el video](https://drive.google.com/file/d/1zys_s_GuVSyXHsMh9SkB4nzValTstlqu/view?usp=sharing)
+<p align="center">
+  <a href="https://drive.google.com/file/d/1zys_s_GuVSyXHsMh9SkB4nzValTstlqu/view?usp=sharing">Ver el video</a>
+</p>
+
 
