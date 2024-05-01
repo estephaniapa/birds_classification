@@ -1,2 +1,11 @@
-# birds_classification
-Clasificador de aves: Aplicación móvil para clasificación de aves utilizando un modelo de red neuronal construido mediante transfer learning.
+# Clasificación de Aves
+
+El propósito de este proyecto es desarrollar un modelo de red neuronal para la clasificación de aves basado en sus especies, implementable en dispositivos móviles.
+
+## Descripción del Modelo
+
+El modelo empleado se basa en la arquitectura EfficientNetV2B3, una red neuronal convolucional (CNN) pre-entrenada. Utilizando transfer learning, ajustamos las capas finales del modelo para adaptarlas al problema específico de clasificación de especies de aves.
+
+## Conjunto de Datos
+
+El conjunto de datos utilizado contiene imágenes de 525 especies de aves y está disponible en [Kaggle](https://www.kaggle.com/datasets/gpiosenka/100-bird-species). Este conjunto de datos comprende un total de 89,885 imágenes, lo que proporciona una amplia variedad de ejemplos para el entrenamiento y la validación del modelo.
