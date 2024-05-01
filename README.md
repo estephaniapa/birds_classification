@@ -32,9 +32,7 @@ Enseguida puedes encontrar el enlace al video:
 
 Autora: Estephania Pivac Alcaraz
 Materia: Redes Neuronales Profundas
-<div class="col-lg-5 mx-auto">
-    <p class="lead mb-0">
-        <a href="https://github.com/estephaniapa/birds_classification/tree/main" class="fs-7 mb-4" target="_blank">Repositorio de GitHub</a>  <br>  <br>
-    </p>
-</div>
 
+<p align="center">
+  <img src="https://github.com/estephaniapa/birds_classification/tree/main" alt="Titulo" width="500px">
+</p>
