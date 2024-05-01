@@ -16,9 +16,10 @@ El conjunto de datos utilizado contiene im√°genes de 525 especies de aves y est√
 ## Ejemplo de uso:
 
 <p align="center">
-  <a href="(https://drive.google.com/file/d/1zys_s_GuVSyXHsMh9SkB4nzValTstlqu/view?usp=sharing)">
+  <a href="https://drive.google.com/file/d/1zys_s_GuVSyXHsMh9SkB4nzValTstlqu/view?usp=sharing">
     <img src="https://github.com/estephaniapa/birds_classification/blob/main/ejemplo_uso.png?raw=true" alt="Titulo" width="500px">
   </a>
 </p>
 [Ver el video]([enlace_de_google_drive](https://drive.google.com/file/d/1zys_s_GuVSyXHsMh9SkB4nzValTstlqu/view?usp=sharing))
 
+https://drive.google.com/file/d/1zys_s_GuVSyXHsMh9SkB4nzValTstlqu/view?usp=sharing
