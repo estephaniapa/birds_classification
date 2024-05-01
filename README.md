@@ -30,7 +30,10 @@ Enseguida puedes encontrar el enlace al video:
   <a href="https://drive.google.com/file/d/1zys_s_GuVSyXHsMh9SkB4nzValTstlqu/view?usp=sharing">Ver el video</a>
 </p>
 
+----
+
 Autora: Estephania Pivac Alcaraz
+
 Materia: Redes Neuronales Profundas
 
 <p align="center">
