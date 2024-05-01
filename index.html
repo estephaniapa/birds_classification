@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" sizes="32x32" href="/guacamayo.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/guacamayo.png">
+    <title>Clasificador de aves</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <style>
+      #resultado {
+        font-weight: bold;
+        font-size: 2rem;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    
+    <main>
+      <div class="px-4 py-2 my-2 text-center border-bottom">
+        <img class="d-block mx-auto mb-2" src="/guacamayo.png" alt="" width="80" height="80">
+        <img class="d-block mx-auto mb-2" src="/titulo.png" alt="" width="400">
+      </div>
+
+      <div class="b-example-divider"></div>
+
+      <div class="container mt-5">
+        <div class="row">
+          <div class="col-12 col-md-4 offset-md-4 text-center">
+            <video id="video" playsinline autoplay style="width: 1px;"></video>
+            <button class="btn btn-primary mb-2" id="cambiar-camara" onclick="cambiarCamara();">Cambiar camara</button>
+            <canvas id="canvas" width="400" height="400" style="max-width: 100%;"></canvas>
+            <canvas id="otrocanvas" width="150" height="150" style="display: none"></canvas>
+            <div id="resultado"></div>            
+          </div>
+        </div>
+      </div>
+
+      <div class="b-example-divider"></div>
+
+      <div class="bg-dark text-secondary mt-5 px-4 py-2 text-center">
+        <div class="py-5">
+          <h1 class="display-10">
+            <span style="font-size: smaller;">Autora: Estephania Pivac Alcaraz</span>
+          </h1>
+          <div class="col-lg-5 mx-auto">
+            <p class="lead mb-0">
+                Redes Neuronales Profundas <br>
+                <a href="https://github.com/estephaniapa/birds_classification/tree/main" class="fs-7 mb-4" target="_blank">Repositorio de GitHub</a>  <br>  <br>
+            </p>
+        </div>
+          <img class="d-block mx-auto mb-2" src="https://mcd.unison.mx/wp-content/themes/awaken/img/logo_mcd.png" alt="" width="80" height="80">
+          <div class="col-lg-6 mx-auto">
+            <p class="fs-7 mb-4"><br> <br>Basado en el material y tutorial guiado de Ringa Tech</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="b-example-divider mb-0"></div>
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@4.18.0/dist/tf.min.js"></script>
+
+	<script src="funciones_predecir.js"></script>
+  </body>
+</html>
