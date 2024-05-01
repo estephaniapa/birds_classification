@@ -34,5 +34,5 @@ Autora: Estephania Pivac Alcaraz
 Materia: Redes Neuronales Profundas
 
 <p align="center">
-  <img src="https://github.com/estephaniapa/birds_classification/tree/main" alt="Titulo" width="500px">
+  <img src="https://mcd.unison.mx/wp-content/themes/awaken/img/logo_mcd.png" alt="MDC" width="500px">
 </p>
