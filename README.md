@@ -37,6 +37,7 @@ Enseguida puedes encontrar el enlace al video:
   <h3>Materia: Redes Neuronales Profundas</h3>
 </p>
 
+
 <p align="center">
   <img src="https://mcd.unison.mx/wp-content/themes/awaken/img/logo_mcd.png" alt="MDC" width="100px">
 </p>
